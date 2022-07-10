@@ -6,26 +6,20 @@
  * @source https://github.com/pordT2/theme
  */
 
-
-@import url('https://raw.githack.com/pordT2/theme/main/pinkie.css');
+@import url('https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css');
+@import url('https://github.com/pordT2/theme/blob/main/pinkie.theme.css');
 
 :root{
     --background: url('https://c.wallhere.com/photos/bd/af/anime_girls_Donald_Trump_Fate_series_Fate_Apocrypha_humor_Astolfo_Fate_Apocrypha-2122145.jpg!d');
     --activetext-colour: rgb(255, 0, 234);
 
-    --primary1-colour: rgba(255, 0, 235, 0.2);
-    --primary2-colour: rgba(255, 0, 235, 0.2);
-    --primary3-colour: rgba(255, 0, 235, 0.2);
+    --primary1-colour: red;
+    --primary2-colour: rgba(255,0,0,0.5);
+    --primary3-colour: rgba(100,0,0,0.6);
 
-    --secondary1-colour: rgba(50,50,50,0.3);
-    --secondary2-colour: rgba(100,100,100,0.5);
-    --secondary3-colour: rgba(0,0,0,0.5);
-
-    --transparency-1: linear-gradient(to right, rgba(255, 0, 235,0.2), rgba(255, 0, 235,0.2));
-    --transparency-2: linear-gradient(to right, rgba(255, 0, 235,0.2), rgba(255, 0, 235,0.2));
-    --transparency-3: linear-gradient(to right, rgba(255, 0, 235,0.2), rgba(255, 0, 235,0.2));
-    --transparency-4: linear-gradient(to right, rgba(255, 0, 235,0.2), rgba(255, 0, 235,0.2));
-    --transparency-5: linear-gradient(to right, rgba(255, 0, 235,0.2), rgba(255, 0, 235,0.2));
+    --secondary1-colour: rgba(170, 53, 53, 0.3);
+    --secondary2-colour: rgba(211, 35, 35, 0.5);
+    --secondary3-colour: rgba(255, 0, 0, 0.5);
 }
   
 /*
